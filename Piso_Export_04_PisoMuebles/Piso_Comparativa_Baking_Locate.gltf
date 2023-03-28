@@ -2817,15 +2817,19 @@
         },
         {
             "sampler" : 0,
+            "source" : 0
+        },
+        {
+            "sampler" : 0,
             "source" : 3
         },
         {
             "sampler" : 0,
-            "source" : 4
+            "source" : 0
         },
         {
             "sampler" : 0,
-            "source" : 0
+            "source" : 4
         },
         {
             "sampler" : 0,
@@ -2841,11 +2845,11 @@
         },
         {
             "sampler" : 0,
-            "source" : 8
+            "source" : 5
         },
         {
             "sampler" : 0,
-            "source" : 6
+            "source" : 8
         },
         {
             "sampler" : 0,
@@ -2857,11 +2861,15 @@
         },
         {
             "sampler" : 0,
-            "source" : 11
+            "source" : 1
         },
         {
             "sampler" : 0,
-            "source" : 1
+            "source" : 2
+        },
+        {
+            "sampler" : 0,
+            "source" : 11
         },
         {
             "sampler" : 0,
@@ -2877,11 +2885,7 @@
         },
         {
             "sampler" : 0,
-            "source" : 13
-        },
-        {
-            "sampler" : 0,
-            "source" : 2
+            "source" : 12
         },
         {
             "sampler" : 0,
@@ -2897,11 +2901,15 @@
         },
         {
             "sampler" : 0,
+            "source" : 13
+        },
+        {
+            "sampler" : 0,
             "source" : 16
         },
         {
             "sampler" : 0,
-            "source" : 14
+            "source" : 2
         },
         {
             "sampler" : 0,
@@ -2917,19 +2925,15 @@
         },
         {
             "sampler" : 0,
-            "source" : 2
+            "source" : 19
         },
         {
             "sampler" : 0,
-            "source" : 19
+            "source" : 18
         },
         {
             "sampler" : 0,
             "source" : 20
-        },
-        {
-            "sampler" : 0,
-            "source" : 19
         },
         {
             "sampler" : 0,
@@ -2941,11 +2945,15 @@
         },
         {
             "sampler" : 0,
+            "source" : 20
+        },
+        {
+            "sampler" : 0,
             "source" : 23
         },
         {
             "sampler" : 0,
-            "source" : 21
+            "source" : 20
         },
         {
             "sampler" : 0,
@@ -2953,7 +2961,7 @@
         },
         {
             "sampler" : 0,
-            "source" : 21
+            "source" : 20
         },
         {
             "sampler" : 0,
@@ -2961,7 +2969,7 @@
         },
         {
             "sampler" : 0,
-            "source" : 21
+            "source" : 20
         },
         {
             "sampler" : 0,
@@ -2969,7 +2977,7 @@
         },
         {
             "sampler" : 0,
-            "source" : 21
+            "source" : 20
         },
         {
             "sampler" : 0,
@@ -2977,7 +2985,7 @@
         },
         {
             "sampler" : 0,
-            "source" : 21
+            "source" : 20
         },
         {
             "sampler" : 0,
@@ -2985,11 +2993,11 @@
         },
         {
             "sampler" : 0,
-            "source" : 21
+            "source" : 29
         },
         {
             "sampler" : 0,
-            "source" : 29
+            "source" : 20
         },
         {
             "sampler" : 0,
@@ -2997,7 +3005,7 @@
         },
         {
             "sampler" : 0,
-            "source" : 21
+            "source" : 20
         },
         {
             "sampler" : 0,
@@ -3005,7 +3013,15 @@
         },
         {
             "sampler" : 0,
-            "source" : 21
+            "source" : 20
+        },
+        {
+            "sampler" : 0,
+            "source" : 20
+        },
+        {
+            "sampler" : 0,
+            "source" : 20
         },
         {
             "sampler" : 0,
@@ -3013,27 +3029,11 @@
         },
         {
             "sampler" : 0,
-            "source" : 21
-        },
-        {
-            "sampler" : 0,
-            "source" : 21
-        },
-        {
-            "sampler" : 0,
-            "source" : 21
-        },
-        {
-            "sampler" : 0,
             "source" : 33
         },
         {
             "sampler" : 0,
-            "source" : 34
-        },
-        {
-            "sampler" : 0,
-            "source" : 21
+            "source" : 20
         }
     ],
     "images" : [
@@ -3051,11 +3051,6 @@
             "mimeType" : "image/jpeg",
             "name" : "color_white",
             "uri" : "color_white.jpg"
-        },
-        {
-            "mimeType" : "image/png",
-            "name" : "Baking_Piso_Process.1001",
-            "uri" : "Baking_Piso_Process_1001.png"
         },
         {
             "mimeType" : "image/jpeg",
