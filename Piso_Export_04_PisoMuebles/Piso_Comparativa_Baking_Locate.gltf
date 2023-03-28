@@ -1391,6 +1391,10 @@
     "materials" : [
         {
             "doubleSided" : true,
+            "emissiveTexture" : {
+                "index" : 0,
+                "texCoord" : 1
+            },
             "name" : "Masonry",
             "normalTexture" : {
                 "extensions" : {
@@ -1405,7 +1409,7 @@
                         ]
                     }
                 },
-                "index" : 0,
+                "index" : 1,
                 "texCoord" : 1
             },
             "pbrMetallicRoughness" : {
@@ -1422,7 +1426,7 @@
                             ]
                         }
                     },
-                    "index" : 1,
+                    "index" : 2,
                     "texCoord" : 1
                 },
                 "metallicFactor" : 0,
@@ -1431,6 +1435,10 @@
         },
         {
             "doubleSided" : true,
+            "emissiveTexture" : {
+                "index" : 3,
+                "texCoord" : 1
+            },
             "extensions" : {
                 "KHR_materials_specular" : {
                     "specularColorFactor" : [
@@ -1446,7 +1454,7 @@
             "name" : "Section",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 2,
+                    "index" : 4,
                     "texCoord" : 1
                 },
                 "roughnessFactor" : 0.858578622341156
@@ -1454,10 +1462,14 @@
         },
         {
             "doubleSided" : true,
+            "emissiveTexture" : {
+                "index" : 5,
+                "texCoord" : 1
+            },
             "name" : "Fachada",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 3,
+                    "index" : 6,
                     "texCoord" : 1
                 },
                 "metallicFactor" : 0,
@@ -1466,6 +1478,15 @@
         },
         {
             "doubleSided" : true,
+            "emissiveFactor" : [
+                1,
+                1,
+                1
+            ],
+            "emissiveTexture" : {
+                "index" : 7,
+                "texCoord" : 1
+            },
             "name" : "Terraza",
             "normalTexture" : {
                 "extensions" : {
@@ -1480,7 +1501,7 @@
                         ]
                     }
                 },
-                "index" : 4,
+                "index" : 8,
                 "texCoord" : 1
             },
             "pbrMetallicRoughness" : {
@@ -1497,7 +1518,7 @@
                             ]
                         }
                     },
-                    "index" : 5,
+                    "index" : 9,
                     "texCoord" : 1
                 },
                 "metallicFactor" : 0,
@@ -1506,6 +1527,15 @@
         },
         {
             "doubleSided" : true,
+            "emissiveFactor" : [
+                1,
+                1,
+                1
+            ],
+            "emissiveTexture" : {
+                "index" : 10,
+                "texCoord" : 1
+            },
             "extensions" : {
                 "KHR_materials_specular" : {
                     "specularColorFactor" : [
@@ -1520,7 +1550,7 @@
             },
             "name" : "Ground",
             "normalTexture" : {
-                "index" : 6,
+                "index" : 11,
                 "texCoord" : 1
             },
             "pbrMetallicRoughness" : {
@@ -1533,7 +1563,7 @@
                             ]
                         }
                     },
-                    "index" : 7,
+                    "index" : 12,
                     "texCoord" : 1
                 },
                 "metallicFactor" : 0,
@@ -1542,6 +1572,15 @@
         },
         {
             "doubleSided" : true,
+            "emissiveFactor" : [
+                1,
+                1,
+                1
+            ],
+            "emissiveTexture" : {
+                "index" : 13,
+                "texCoord" : 1
+            },
             "name" : "Baseboard",
             "normalTexture" : {
                 "extensions" : {
@@ -1556,7 +1595,7 @@
                         ]
                     }
                 },
-                "index" : 8,
+                "index" : 14,
                 "texCoord" : 1
             },
             "pbrMetallicRoughness" : {
@@ -1573,7 +1612,7 @@
                             ]
                         }
                     },
-                    "index" : 9,
+                    "index" : 15,
                     "texCoord" : 1
                 },
                 "metallicFactor" : 0,
@@ -1582,10 +1621,14 @@
         },
         {
             "doubleSided" : true,
+            "emissiveTexture" : {
+                "index" : 16,
+                "texCoord" : 1
+            },
             "name" : "Ceilling",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 10,
+                    "index" : 17,
                     "texCoord" : 1
                 },
                 "metallicFactor" : 0,
@@ -1594,10 +1637,14 @@
         },
         {
             "doubleSided" : true,
+            "emissiveTexture" : {
+                "index" : 18,
+                "texCoord" : 1
+            },
             "name" : "Doors",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 11,
+                    "index" : 19,
                     "texCoord" : 1
                 },
                 "metallicFactor" : 0,
@@ -1606,6 +1653,10 @@
         },
         {
             "doubleSided" : true,
+            "emissiveTexture" : {
+                "index" : 20,
+                "texCoord" : 1
+            },
             "name" : "Handle",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
@@ -1619,14 +1670,18 @@
         },
         {
             "doubleSided" : true,
+            "emissiveTexture" : {
+                "index" : 21,
+                "texCoord" : 1
+            },
             "name" : "Curtain",
             "normalTexture" : {
-                "index" : 12,
+                "index" : 22,
                 "texCoord" : 1
             },
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 13,
+                    "index" : 23,
                     "texCoord" : 1
                 },
                 "metallicFactor" : 0,
@@ -1635,6 +1690,15 @@
         },
         {
             "doubleSided" : true,
+            "emissiveFactor" : [
+                1,
+                1,
+                1
+            ],
+            "emissiveTexture" : {
+                "index" : 24,
+                "texCoord" : 1
+            },
             "name" : "Curtain_Bar",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
@@ -1649,10 +1713,14 @@
         },
         {
             "doubleSided" : true,
+            "emissiveTexture" : {
+                "index" : 25,
+                "texCoord" : 1
+            },
             "name" : "Window",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 14,
+                    "index" : 26,
                     "texCoord" : 1
                 },
                 "metallicFactor" : 0,
@@ -1661,10 +1729,19 @@
         },
         {
             "doubleSided" : true,
+            "emissiveFactor" : [
+                1,
+                1,
+                1
+            ],
+            "emissiveTexture" : {
+                "index" : 27,
+                "texCoord" : 1
+            },
             "name" : "Railing_Etel",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 15,
+                    "index" : 28,
                     "texCoord" : 1
                 },
                 "metallicFactor" : 0.23636363446712494,
@@ -1673,10 +1750,14 @@
         },
         {
             "doubleSided" : true,
+            "emissiveTexture" : {
+                "index" : 29,
+                "texCoord" : 1
+            },
             "name" : "Caldera",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 16,
+                    "index" : 30,
                     "texCoord" : 1
                 },
                 "metallicFactor" : 0,
@@ -1685,6 +1766,10 @@
         },
         {
             "doubleSided" : true,
+            "emissiveTexture" : {
+                "index" : 31,
+                "texCoord" : 1
+            },
             "extensions" : {
                 "KHR_materials_specular" : {
                     "specularColorFactor" : [
@@ -1710,14 +1795,22 @@
         },
         {
             "doubleSided" : true,
+            "emissiveFactor" : [
+                1,
+                1,
+                1
+            ],
+            "emissiveTexture" : {
+                "index" : 32
+            },
             "name" : "BaseBed",
             "normalTexture" : {
-                "index" : 17,
+                "index" : 33,
                 "scale" : 0.10000000149011612
             },
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 18
+                    "index" : 34
                 },
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5
@@ -1725,6 +1818,14 @@
         },
         {
             "doubleSided" : true,
+            "emissiveFactor" : [
+                1,
+                1,
+                1
+            ],
+            "emissiveTexture" : {
+                "index" : 35
+            },
             "name" : "Manta",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
@@ -1740,7 +1841,7 @@
                             ]
                         }
                     },
-                    "index" : 19
+                    "index" : 36
                 },
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5
@@ -1748,10 +1849,18 @@
         },
         {
             "doubleSided" : true,
+            "emissiveFactor" : [
+                1,
+                1,
+                1
+            ],
+            "emissiveTexture" : {
+                "index" : 37
+            },
             "name" : "Cuadro",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 20
+                    "index" : 38
                 },
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5
@@ -1759,10 +1868,18 @@
         },
         {
             "doubleSided" : true,
+            "emissiveFactor" : [
+                1,
+                1,
+                1
+            ],
+            "emissiveTexture" : {
+                "index" : 39
+            },
             "name" : "DetallesNegros",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 21
+                    "index" : 40
                 },
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5
@@ -1770,10 +1887,18 @@
         },
         {
             "doubleSided" : true,
+            "emissiveFactor" : [
+                1,
+                1,
+                1
+            ],
+            "emissiveTexture" : {
+                "index" : 41
+            },
             "name" : "Libros",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 22
+                    "index" : 42
                 },
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5
@@ -1781,6 +1906,14 @@
         },
         {
             "doubleSided" : true,
+            "emissiveFactor" : [
+                1,
+                1,
+                1
+            ],
+            "emissiveTexture" : {
+                "index" : 43
+            },
             "name" : "Reloj",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
@@ -1796,7 +1929,7 @@
                             ]
                         }
                     },
-                    "index" : 23
+                    "index" : 44
                 },
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5
@@ -1804,6 +1937,14 @@
         },
         {
             "doubleSided" : true,
+            "emissiveFactor" : [
+                1,
+                1,
+                1
+            ],
+            "emissiveTexture" : {
+                "index" : 45
+            },
             "name" : "Alfombra",
             "normalTexture" : {
                 "extensions" : {
@@ -1818,7 +1959,7 @@
                         ]
                     }
                 },
-                "index" : 24
+                "index" : 46
             },
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
@@ -1834,7 +1975,7 @@
                             ]
                         }
                     },
-                    "index" : 25
+                    "index" : 47
                 },
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5
@@ -1842,6 +1983,14 @@
         },
         {
             "doubleSided" : true,
+            "emissiveFactor" : [
+                1,
+                1,
+                1
+            ],
+            "emissiveTexture" : {
+                "index" : 48
+            },
             "name" : "Cojines_Principales",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
@@ -1857,7 +2006,7 @@
                             ]
                         }
                     },
-                    "index" : 26
+                    "index" : 49
                 },
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5
@@ -1865,10 +2014,18 @@
         },
         {
             "doubleSided" : true,
+            "emissiveFactor" : [
+                1,
+                1,
+                1
+            ],
+            "emissiveTexture" : {
+                "index" : 50
+            },
             "name" : "Cojines_Secundarios",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 27
+                    "index" : 51
                 },
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5
@@ -1876,6 +2033,14 @@
         },
         {
             "doubleSided" : true,
+            "emissiveFactor" : [
+                1,
+                1,
+                1
+            ],
+            "emissiveTexture" : {
+                "index" : 52
+            },
             "name" : "Lampara_01",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
@@ -1890,6 +2055,14 @@
         },
         {
             "doubleSided" : true,
+            "emissiveFactor" : [
+                1,
+                1,
+                1
+            ],
+            "emissiveTexture" : {
+                "index" : 53
+            },
             "name" : "Lampara_02",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
@@ -1904,6 +2077,14 @@
         },
         {
             "doubleSided" : true,
+            "emissiveFactor" : [
+                1,
+                1,
+                1
+            ],
+            "emissiveTexture" : {
+                "index" : 54
+            },
             "extensions" : {
                 "KHR_materials_specular" : {
                     "specularColorFactor" : [
@@ -1918,11 +2099,11 @@
             },
             "name" : "Mesillas",
             "normalTexture" : {
-                "index" : 28
+                "index" : 55
             },
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 29
+                    "index" : 56
                 },
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.6090909242630005
@@ -1930,6 +2111,14 @@
         },
         {
             "doubleSided" : true,
+            "emissiveFactor" : [
+                1,
+                1,
+                1
+            ],
+            "emissiveTexture" : {
+                "index" : 57
+            },
             "name" : "Material.001",
             "pbrMetallicRoughness" : {
                 "metallicFactor" : 0,
@@ -2628,7 +2817,15 @@
         },
         {
             "sampler" : 0,
+            "source" : 0
+        },
+        {
+            "sampler" : 0,
             "source" : 3
+        },
+        {
+            "sampler" : 0,
+            "source" : 0
         },
         {
             "sampler" : 0,
@@ -2648,19 +2845,7 @@
         },
         {
             "sampler" : 0,
-            "source" : 0
-        },
-        {
-            "sampler" : 0,
-            "source" : 1
-        },
-        {
-            "sampler" : 0,
-            "source" : 1
-        },
-        {
-            "sampler" : 0,
-            "source" : 1
+            "source" : 5
         },
         {
             "sampler" : 0,
@@ -2672,19 +2857,31 @@
         },
         {
             "sampler" : 0,
-            "source" : 1
-        },
-        {
-            "sampler" : 0,
-            "source" : 1
-        },
-        {
-            "sampler" : 0,
             "source" : 10
         },
         {
             "sampler" : 0,
+            "source" : 1
+        },
+        {
+            "sampler" : 0,
+            "source" : 2
+        },
+        {
+            "sampler" : 0,
             "source" : 11
+        },
+        {
+            "sampler" : 0,
+            "source" : 2
+        },
+        {
+            "sampler" : 0,
+            "source" : 12
+        },
+        {
+            "sampler" : 0,
+            "source" : 2
         },
         {
             "sampler" : 0,
@@ -2704,7 +2901,23 @@
         },
         {
             "sampler" : 0,
+            "source" : 13
+        },
+        {
+            "sampler" : 0,
             "source" : 16
+        },
+        {
+            "sampler" : 0,
+            "source" : 2
+        },
+        {
+            "sampler" : 0,
+            "source" : 17
+        },
+        {
+            "sampler" : 0,
+            "source" : 2
         },
         {
             "sampler" : 0,
@@ -2713,6 +2926,10 @@
         {
             "sampler" : 0,
             "source" : 18
+        },
+        {
+            "sampler" : 0,
+            "source" : 17
         },
         {
             "sampler" : 0,
@@ -2728,14 +2945,103 @@
         },
         {
             "sampler" : 0,
+            "source" : 19
+        },
+        {
+            "sampler" : 0,
             "source" : 22
         },
         {
             "sampler" : 0,
+            "source" : 19
+        },
+        {
+            "sampler" : 0,
             "source" : 23
+        },
+        {
+            "sampler" : 0,
+            "source" : 19
+        },
+        {
+            "sampler" : 0,
+            "source" : 24
+        },
+        {
+            "sampler" : 0,
+            "source" : 19
+        },
+        {
+            "sampler" : 0,
+            "source" : 25
+        },
+        {
+            "sampler" : 0,
+            "source" : 19
+        },
+        {
+            "sampler" : 0,
+            "source" : 26
+        },
+        {
+            "sampler" : 0,
+            "source" : 19
+        },
+        {
+            "sampler" : 0,
+            "source" : 27
+        },
+        {
+            "sampler" : 0,
+            "source" : 28
+        },
+        {
+            "sampler" : 0,
+            "source" : 19
+        },
+        {
+            "sampler" : 0,
+            "source" : 29
+        },
+        {
+            "sampler" : 0,
+            "source" : 19
+        },
+        {
+            "sampler" : 0,
+            "source" : 30
+        },
+        {
+            "sampler" : 0,
+            "source" : 19
+        },
+        {
+            "sampler" : 0,
+            "source" : 19
+        },
+        {
+            "sampler" : 0,
+            "source" : 19
+        },
+        {
+            "sampler" : 0,
+            "source" : 31
+        },
+        {
+            "sampler" : 0,
+            "source" : 32
+        },
+        {
+            "sampler" : 0,
+            "source" : 19
         }
     ],
     "images" : [
+        {
+            "mimeType" : "image/png",
+            "name" : "Baking_Piso_Process.1001",
+            "uri" : "Baking_Piso_Process_1001.png"
+        },
         {
             "mimeType" : "image/jpeg",
             "name" : "paint_indoor_normal",
@@ -2755,6 +3061,11 @@
             "mimeType" : "image/jpeg",
             "name" : "color_gray_pb13",
             "uri" : "color_gray_pb13.jpg"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Baking_Piso_Proces_05",
+            "uri" : "Baking_Piso_Proces_05.png"
         },
         {
             "mimeType" : "image/jpeg",
@@ -2777,6 +3088,26 @@
             "uri" : "WoodFloor057_2K_Color.jpg"
         },
         {
+            "mimeType" : "image/png",
+            "name" : "Baking_Piso_Proces_08",
+            "uri" : "Baking_Piso_Proces_08.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Baking_Piso_Proces_02",
+            "uri" : "Baking_Piso_Proces_02.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Baking_Piso_Proces_04",
+            "uri" : "Baking_Piso_Proces_04.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Baking_Piso_Proces_03",
+            "uri" : "Baking_Piso_Proces_03.png"
+        },
+        {
             "mimeType" : "image/jpeg",
             "name" : "artdeco_curtain_normal",
             "uri" : "artdeco_curtain_normal.jpg"
@@ -2787,9 +3118,24 @@
             "uri" : "artdeco_curtain_basecolor.jpg"
         },
         {
+            "mimeType" : "image/png",
+            "name" : "Baking_Piso_Proces_06",
+            "uri" : "Baking_Piso_Proces_06.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Baking_Piso_Proces_07",
+            "uri" : "Baking_Piso_Proces_07.png"
+        },
+        {
             "mimeType" : "image/jpeg",
             "name" : "boiler",
             "uri" : "boiler.jpg"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Cama_Baking_Denoiser",
+            "uri" : "Cama_Baking_Denoiser.png"
         },
         {
             "mimeType" : "image/jpeg",
