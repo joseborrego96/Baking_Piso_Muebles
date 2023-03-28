@@ -2817,19 +2817,15 @@
         },
         {
             "sampler" : 0,
-            "source" : 0
-        },
-        {
-            "sampler" : 0,
             "source" : 3
         },
         {
             "sampler" : 0,
-            "source" : 0
+            "source" : 4
         },
         {
             "sampler" : 0,
-            "source" : 4
+            "source" : 0
         },
         {
             "sampler" : 0,
@@ -2845,11 +2841,11 @@
         },
         {
             "sampler" : 0,
-            "source" : 5
+            "source" : 8
         },
         {
             "sampler" : 0,
-            "source" : 8
+            "source" : 6
         },
         {
             "sampler" : 0,
@@ -2861,6 +2857,10 @@
         },
         {
             "sampler" : 0,
+            "source" : 11
+        },
+        {
+            "sampler" : 0,
             "source" : 1
         },
         {
@@ -2869,14 +2869,6 @@
         },
         {
             "sampler" : 0,
-            "source" : 11
-        },
-        {
-            "sampler" : 0,
-            "source" : 2
-        },
-        {
-            "sampler" : 0,
             "source" : 12
         },
         {
@@ -2885,7 +2877,11 @@
         },
         {
             "sampler" : 0,
-            "source" : 12
+            "source" : 13
+        },
+        {
+            "sampler" : 0,
+            "source" : 2
         },
         {
             "sampler" : 0,
@@ -2901,15 +2897,11 @@
         },
         {
             "sampler" : 0,
-            "source" : 13
-        },
-        {
-            "sampler" : 0,
             "source" : 16
         },
         {
             "sampler" : 0,
-            "source" : 2
+            "source" : 14
         },
         {
             "sampler" : 0,
@@ -2918,10 +2910,6 @@
         {
             "sampler" : 0,
             "source" : 2
-        },
-        {
-            "sampler" : 0,
-            "source" : 17
         },
         {
             "sampler" : 0,
@@ -2929,7 +2917,7 @@
         },
         {
             "sampler" : 0,
-            "source" : 17
+            "source" : 2
         },
         {
             "sampler" : 0,
@@ -2941,11 +2929,11 @@
         },
         {
             "sampler" : 0,
-            "source" : 21
+            "source" : 19
         },
         {
             "sampler" : 0,
-            "source" : 19
+            "source" : 21
         },
         {
             "sampler" : 0,
@@ -2953,15 +2941,11 @@
         },
         {
             "sampler" : 0,
-            "source" : 19
-        },
-        {
-            "sampler" : 0,
             "source" : 23
         },
         {
             "sampler" : 0,
-            "source" : 19
+            "source" : 21
         },
         {
             "sampler" : 0,
@@ -2969,7 +2953,7 @@
         },
         {
             "sampler" : 0,
-            "source" : 19
+            "source" : 21
         },
         {
             "sampler" : 0,
@@ -2977,7 +2961,7 @@
         },
         {
             "sampler" : 0,
-            "source" : 19
+            "source" : 21
         },
         {
             "sampler" : 0,
@@ -2985,7 +2969,7 @@
         },
         {
             "sampler" : 0,
-            "source" : 19
+            "source" : 21
         },
         {
             "sampler" : 0,
@@ -2993,11 +2977,15 @@
         },
         {
             "sampler" : 0,
+            "source" : 21
+        },
+        {
+            "sampler" : 0,
             "source" : 28
         },
         {
             "sampler" : 0,
-            "source" : 19
+            "source" : 21
         },
         {
             "sampler" : 0,
@@ -3005,23 +2993,11 @@
         },
         {
             "sampler" : 0,
-            "source" : 19
-        },
-        {
-            "sampler" : 0,
             "source" : 30
         },
         {
             "sampler" : 0,
-            "source" : 19
-        },
-        {
-            "sampler" : 0,
-            "source" : 19
-        },
-        {
-            "sampler" : 0,
-            "source" : 19
+            "source" : 21
         },
         {
             "sampler" : 0,
@@ -3029,18 +3005,42 @@
         },
         {
             "sampler" : 0,
+            "source" : 21
+        },
+        {
+            "sampler" : 0,
             "source" : 32
         },
         {
             "sampler" : 0,
-            "source" : 19
+            "source" : 21
+        },
+        {
+            "sampler" : 0,
+            "source" : 21
+        },
+        {
+            "sampler" : 0,
+            "source" : 21
+        },
+        {
+            "sampler" : 0,
+            "source" : 33
+        },
+        {
+            "sampler" : 0,
+            "source" : 34
+        },
+        {
+            "sampler" : 0,
+            "source" : 21
         }
     ],
     "images" : [
         {
             "mimeType" : "image/png",
-            "name" : "Baking_Piso_Process.1001",
-            "uri" : "Baking_Piso_Process_1001.png"
+            "name" : "Baking_Piso_Process_Denoise_01",
+            "uri" : "Baking_Piso_Process_Denoise_01.png"
         },
         {
             "mimeType" : "image/jpeg",
@@ -3051,6 +3051,11 @@
             "mimeType" : "image/jpeg",
             "name" : "color_white",
             "uri" : "color_white.jpg"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Baking_Piso_Process.1001",
+            "uri" : "Baking_Piso_Process_1001.png"
         },
         {
             "mimeType" : "image/jpeg",
@@ -3089,23 +3094,23 @@
         },
         {
             "mimeType" : "image/png",
-            "name" : "Baking_Piso_Proces_08",
-            "uri" : "Baking_Piso_Proces_08.png"
+            "name" : "Baking_Piso_Process_Denoise_08",
+            "uri" : "Baking_Piso_Process_Denoise_08.png"
         },
         {
             "mimeType" : "image/png",
-            "name" : "Baking_Piso_Proces_02",
-            "uri" : "Baking_Piso_Proces_02.png"
+            "name" : "Baking_Piso_Process_Denoise_02",
+            "uri" : "Baking_Piso_Process_Denoise_02.png"
         },
         {
             "mimeType" : "image/png",
-            "name" : "Baking_Piso_Proces_04",
-            "uri" : "Baking_Piso_Proces_04.png"
+            "name" : "Baking_Piso_Process_Denoise_04",
+            "uri" : "Baking_Piso_Process_Denoise_04.png"
         },
         {
             "mimeType" : "image/png",
-            "name" : "Baking_Piso_Proces_03",
-            "uri" : "Baking_Piso_Proces_03.png"
+            "name" : "Baking_Piso_Process_Denoise_03",
+            "uri" : "Baking_Piso_Process_Denoise_03.png"
         },
         {
             "mimeType" : "image/jpeg",
@@ -3119,8 +3124,13 @@
         },
         {
             "mimeType" : "image/png",
-            "name" : "Baking_Piso_Proces_06",
-            "uri" : "Baking_Piso_Proces_06.png"
+            "name" : "Baking_Piso_Process_Denoise_06",
+            "uri" : "Baking_Piso_Process_Denoise_06.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Baking_Piso_Process_Denoise_07",
+            "uri" : "Baking_Piso_Process_Denoise_07.png"
         },
         {
             "mimeType" : "image/png",
