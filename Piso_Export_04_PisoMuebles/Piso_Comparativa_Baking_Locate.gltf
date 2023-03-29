@@ -4275,7 +4275,15 @@
         },
         {
             "sampler" : 0,
+            "source" : 34
+        },
+        {
+            "sampler" : 0,
             "source" : 41
+        },
+        {
+            "sampler" : 0,
+            "source" : 34
         },
         {
             "sampler" : 0,
@@ -4287,19 +4295,11 @@
         },
         {
             "sampler" : 0,
+            "source" : 34
+        },
+        {
+            "sampler" : 0,
             "source" : 43
-        },
-        {
-            "sampler" : 0,
-            "source" : 34
-        },
-        {
-            "sampler" : 0,
-            "source" : 34
-        },
-        {
-            "sampler" : 0,
-            "source" : 44
         },
         {
             "sampler" : 0,
@@ -4515,11 +4515,6 @@
             "mimeType" : "image/jpeg",
             "name" : "venice_picture",
             "uri" : "venice_picture.jpg"
-        },
-        {
-            "mimeType" : "image/png",
-            "name" : "Tv_Baking_Denoiser",
-            "uri" : "Tv_Baking_Denoiser.png"
         },
         {
             "mimeType" : "image/jpeg",
