@@ -2722,7 +2722,8 @@
         {
             "doubleSided" : true,
             "emissiveTexture" : {
-                "index" : 58
+                "index" : 58,
+                "texCoord" : 1
             },
             "name" : "Maderda_Base_Tv",
             "normalTexture" : {
@@ -2739,7 +2740,8 @@
                         ]
                     }
                 },
-                "index" : 59
+                "index" : 59,
+                "texCoord" : 1
             },
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
@@ -2756,7 +2758,8 @@
                             ]
                         }
                     },
-                    "index" : 60
+                    "index" : 60,
+                    "texCoord" : 1
                 },
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5
@@ -2765,12 +2768,14 @@
         {
             "doubleSided" : true,
             "emissiveTexture" : {
-                "index" : 61
+                "index" : 61,
+                "texCoord" : 1
             },
             "name" : "Dorado_Base_Tv",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 62
+                    "index" : 62,
+                    "texCoord" : 1
                 },
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5
@@ -2779,12 +2784,14 @@
         {
             "doubleSided" : true,
             "emissiveTexture" : {
-                "index" : 63
+                "index" : 63,
+                "texCoord" : 1
             },
             "name" : "jarron_01_Tv",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 64
+                    "index" : 64,
+                    "texCoord" : 1
                 },
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5
@@ -2793,12 +2800,14 @@
         {
             "doubleSided" : true,
             "emissiveTexture" : {
-                "index" : 65
+                "index" : 65,
+                "texCoord" : 1
             },
             "name" : "jarron_02_Tv",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 66
+                    "index" : 66,
+                    "texCoord" : 1
                 },
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5
@@ -2807,7 +2816,8 @@
         {
             "doubleSided" : true,
             "emissiveTexture" : {
-                "index" : 67
+                "index" : 67,
+                "texCoord" : 1
             },
             "name" : "Madera_Puertas_Tv",
             "pbrMetallicRoughness" : {
@@ -2824,7 +2834,8 @@
                             ]
                         }
                     },
-                    "index" : 68
+                    "index" : 68,
+                    "texCoord" : 1
                 },
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5
@@ -2833,12 +2844,14 @@
         {
             "doubleSided" : true,
             "emissiveTexture" : {
-                "index" : 69
+                "index" : 69,
+                "texCoord" : 1
             },
             "name" : "Marco_Tv",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 70
+                    "index" : 70,
+                    "texCoord" : 1
                 },
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5
@@ -2847,7 +2860,8 @@
         {
             "doubleSided" : true,
             "emissiveTexture" : {
-                "index" : 71
+                "index" : 71,
+                "texCoord" : 1
             },
             "name" : "Img_01_Tv",
             "pbrMetallicRoughness" : {
@@ -2865,7 +2879,8 @@
                             ]
                         }
                     },
-                    "index" : 72
+                    "index" : 72,
+                    "texCoord" : 1
                 },
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5
@@ -2874,7 +2889,8 @@
         {
             "doubleSided" : true,
             "emissiveTexture" : {
-                "index" : 73
+                "index" : 73,
+                "texCoord" : 1
             },
             "name" : "Img_02_Tv",
             "pbrMetallicRoughness" : {
@@ -2892,7 +2908,8 @@
                             ]
                         }
                     },
-                    "index" : 74
+                    "index" : 74,
+                    "texCoord" : 1
                 },
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5
@@ -2902,7 +2919,8 @@
             "alphaMode" : "BLEND",
             "doubleSided" : true,
             "emissiveTexture" : {
-                "index" : 75
+                "index" : 75,
+                "texCoord" : 1
             },
             "name" : "Flores_Tv",
             "pbrMetallicRoughness" : {
@@ -2920,7 +2938,8 @@
                             ]
                         }
                     },
-                    "index" : 76
+                    "index" : 76,
+                    "texCoord" : 1
                 },
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5
@@ -2934,7 +2953,8 @@
                 1
             ],
             "emissiveTexture" : {
-                "index" : 77
+                "index" : 77,
+                "texCoord" : 1
             },
             "name" : "Sombras_Tv",
             "pbrMetallicRoughness" : {
@@ -2951,7 +2971,8 @@
         {
             "doubleSided" : true,
             "emissiveTexture" : {
-                "index" : 78
+                "index" : 78,
+                "texCoord" : 1
             },
             "name" : "Tv",
             "pbrMetallicRoughness" : {
@@ -2969,7 +2990,8 @@
                             ]
                         }
                     },
-                    "index" : 79
+                    "index" : 79,
+                    "texCoord" : 1
                 },
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5
@@ -2978,12 +3000,14 @@
         {
             "doubleSided" : true,
             "emissiveTexture" : {
-                "index" : 80
+                "index" : 80,
+                "texCoord" : 1
             },
             "name" : "Tv_Marco",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 81
+                    "index" : 81,
+                    "texCoord" : 1
                 },
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5
