@@ -3038,12 +3038,6 @@
             },
             "name" : "Sombras_Tv.001",
             "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.699999988079071,
-                    0.699999988079071,
-                    0.699999988079071,
-                    1
-                ],
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5
             }
@@ -3222,12 +3216,6 @@
             },
             "name" : "Sombras_Lavamanos",
             "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.699999988079071,
-                    0.699999988079071,
-                    0.699999988079071,
-                    1
-                ],
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5
             }
@@ -4890,8 +4878,8 @@
         },
         {
             "mimeType" : "image/png",
-            "name" : "Lavamanos_Baking_Shadow",
-            "uri" : "Lavamanos_Baking_Shadow.png"
+            "name" : "Lavamanos_Baking_Shadow_02",
+            "uri" : "Lavamanos_Baking_Shadow_02.png"
         }
     ],
     "accessors" : [
