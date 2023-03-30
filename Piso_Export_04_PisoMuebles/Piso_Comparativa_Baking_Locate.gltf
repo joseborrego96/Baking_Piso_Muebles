@@ -2605,8 +2605,7 @@
                 1
             ],
             "emissiveTexture" : {
-                "index" : 44,
-                "texCoord" : 1
+                "index" : 44
             },
             "name" : "Alfombra",
             "normalTexture" : {
@@ -2622,8 +2621,7 @@
                         ]
                     }
                 },
-                "index" : 45,
-                "texCoord" : 1
+                "index" : 45
             },
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
@@ -2639,8 +2637,7 @@
                             ]
                         }
                     },
-                    "index" : 46,
-                    "texCoord" : 1
+                    "index" : 46
                 },
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5
@@ -4505,10 +4502,6 @@
         },
         {
             "sampler" : 0,
-            "source" : 20
-        },
-        {
-            "sampler" : 0,
             "source" : 34
         },
         {
@@ -4521,15 +4514,11 @@
         },
         {
             "sampler" : 0,
-            "source" : 34
-        },
-        {
-            "sampler" : 0,
             "source" : 37
         },
         {
             "sampler" : 0,
-            "source" : 34
+            "source" : 35
         },
         {
             "sampler" : 0,
@@ -4537,15 +4526,7 @@
         },
         {
             "sampler" : 0,
-            "source" : 34
-        },
-        {
-            "sampler" : 0,
-            "source" : 26
-        },
-        {
-            "sampler" : 0,
-            "source" : 34
+            "source" : 35
         },
         {
             "sampler" : 0,
@@ -4553,15 +4534,15 @@
         },
         {
             "sampler" : 0,
-            "source" : 34
+            "source" : 35
         },
         {
             "sampler" : 0,
-            "source" : 25
+            "source" : 26
         },
         {
             "sampler" : 0,
-            "source" : 34
+            "source" : 35
         },
         {
             "sampler" : 0,
@@ -4569,35 +4550,7 @@
         },
         {
             "sampler" : 0,
-            "source" : 34
-        },
-        {
-            "sampler" : 0,
-            "source" : 41
-        },
-        {
-            "sampler" : 0,
-            "source" : 34
-        },
-        {
-            "sampler" : 0,
-            "source" : 42
-        },
-        {
-            "sampler" : 0,
-            "source" : 43
-        },
-        {
-            "sampler" : 0,
-            "source" : 34
-        },
-        {
-            "sampler" : 0,
-            "source" : 44
-        },
-        {
-            "sampler" : 0,
-            "source" : 34
+            "source" : 35
         },
         {
             "sampler" : 0,
@@ -4605,7 +4558,47 @@
         },
         {
             "sampler" : 0,
+            "source" : 35
+        },
+        {
+            "sampler" : 0,
+            "source" : 41
+        },
+        {
+            "sampler" : 0,
+            "source" : 35
+        },
+        {
+            "sampler" : 0,
+            "source" : 42
+        },
+        {
+            "sampler" : 0,
+            "source" : 35
+        },
+        {
+            "sampler" : 0,
+            "source" : 43
+        },
+        {
+            "sampler" : 0,
+            "source" : 44
+        },
+        {
+            "sampler" : 0,
+            "source" : 35
+        },
+        {
+            "sampler" : 0,
             "source" : 45
+        },
+        {
+            "sampler" : 0,
+            "source" : 35
+        },
+        {
+            "sampler" : 0,
+            "source" : 25
         },
         {
             "sampler" : 0,
@@ -4613,23 +4606,27 @@
         },
         {
             "sampler" : 0,
-            "source" : 45
+            "source" : 47
         },
         {
             "sampler" : 0,
-            "source" : 45
+            "source" : 46
         },
         {
             "sampler" : 0,
-            "source" : 45
+            "source" : 46
         },
         {
             "sampler" : 0,
-            "source" : 45
+            "source" : 46
         },
         {
             "sampler" : 0,
-            "source" : 45
+            "source" : 46
+        },
+        {
+            "sampler" : 0,
+            "source" : 46
         },
         {
             "sampler" : 0,
@@ -4637,7 +4634,7 @@
         },
         {
             "sampler" : 0,
-            "source" : 45
+            "source" : 48
         }
     ],
     "images" : [
@@ -4813,6 +4810,11 @@
         },
         {
             "mimeType" : "image/png",
+            "name" : "Cama_Baking_Shadow",
+            "uri" : "Cama_Baking_Shadow.png"
+        },
+        {
+            "mimeType" : "image/png",
             "name" : "Tv_Baking_Denoiser_02",
             "uri" : "Tv_Baking_Denoiser_02.png"
         },
@@ -4875,6 +4877,11 @@
             "mimeType" : "image/jpeg",
             "name" : "color_ceramic",
             "uri" : "color_ceramic.jpg"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Lavamanos_Baking_Shadow",
+            "uri" : "Lavamanos_Baking_Shadow.png"
         }
     ],
     "accessors" : [
