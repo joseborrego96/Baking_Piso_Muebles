@@ -2597,8 +2597,7 @@
                 1
             ],
             "emissiveTexture" : {
-                "index" : 45,
-                "texCoord" : 1
+                "index" : 45
             },
             "name" : "Alfombra",
             "normalTexture" : {
@@ -2614,8 +2613,7 @@
                         ]
                     }
                 },
-                "index" : 46,
-                "texCoord" : 1
+                "index" : 46
             },
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
@@ -2631,8 +2629,7 @@
                             ]
                         }
                     },
-                    "index" : 47,
-                    "texCoord" : 1
+                    "index" : 47
                 },
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5
