@@ -4637,7 +4637,7 @@
         },
         {
             "sampler" : 0,
-            "source" : 47
+            "source" : 45
         }
     ],
     "images" : [
@@ -4868,18 +4868,13 @@
         },
         {
             "mimeType" : "image/png",
-            "name" : "Lavamanos_Baking_Denoiser",
-            "uri" : "Lavamanos_Baking_Denoiser.png"
+            "name" : "Lavamanos_Baking_Denoiser_02",
+            "uri" : "Lavamanos_Baking_Denoiser_02.png"
         },
         {
             "mimeType" : "image/jpeg",
             "name" : "color_ceramic",
             "uri" : "color_ceramic.jpg"
-        },
-        {
-            "mimeType" : "image/png",
-            "name" : "Lavamanos_Baking_Shadow_02",
-            "uri" : "Lavamanos_Baking_Shadow_02.png"
         }
     ],
     "accessors" : [
